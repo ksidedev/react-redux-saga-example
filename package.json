@@ -34,7 +34,7 @@
     "deep-object-diff": "1.1.0",
     "es6-promise": "4.2.6",
     "history": "4.7.2",
-    "lint-staged": "8.0.4",
+    "lint-staged": "13.2.2",
     "moment": "2.22.2",
     "moment-timezone": "0.5.23",
     "polished": "2.3.1",
